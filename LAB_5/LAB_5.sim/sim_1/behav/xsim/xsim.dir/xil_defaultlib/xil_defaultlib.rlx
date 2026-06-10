@@ -1,0 +1,13 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/ELD/LAB_5/LAB_5.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/ELD/LAB_5/LAB_5.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1757996359,verilog,,D:/ELD/LAB_5/LAB_5.srcs/sources_1/new/FSM_MOORE.v,,clk_wiz_0,,,../../../../LAB_5.srcs/sources_1/ip/clk_wiz_0;../../../../LAB_5.srcs/sources_1/ip/vio_0/hdl,,,,,
+D:/ELD/LAB_5/LAB_5.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1757996359,verilog,,D:/ELD/LAB_5/LAB_5.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../LAB_5.srcs/sources_1/ip/clk_wiz_0;../../../../LAB_5.srcs/sources_1/ip/vio_0/hdl,,,,,
+D:/ELD/LAB_5/LAB_5.srcs/sources_1/ip/vio_0/sim/vio_0.v,1757998332,verilog,,D:/ELD/LAB_5/LAB_5.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,,vio_0,,,../../../../LAB_5.srcs/sources_1/ip/clk_wiz_0;../../../../LAB_5.srcs/sources_1/ip/vio_0/hdl,,,,,
+D:/ELD/LAB_5/LAB_5.srcs/sources_1/new/FSM_MOORE.v,1757997999,verilog,,D:/ELD/LAB_5/LAB_5.srcs/sources_1/new/clk_div_rtl.v,,fsm_moore,,,../../../../LAB_5.srcs/sources_1/ip/clk_wiz_0;../../../../LAB_5.srcs/sources_1/ip/vio_0/hdl,,,,,
+D:/ELD/LAB_5/LAB_5.srcs/sources_1/new/clk_div_rtl.v,1757996478,verilog,,D:/ELD/LAB_5/LAB_5.srcs/sources_1/new/pb_clock.v,,clk_div_rtl,,,../../../../LAB_5.srcs/sources_1/ip/clk_wiz_0;../../../../LAB_5.srcs/sources_1/ip/vio_0/hdl,,,,,
+D:/ELD/LAB_5/LAB_5.srcs/sources_1/new/pb_clock.v,1757997785,verilog,,D:/ELD/LAB_5/LAB_5.srcs/sources_1/new/top_fsm.v,,pb_clock,,,../../../../LAB_5.srcs/sources_1/ip/clk_wiz_0;../../../../LAB_5.srcs/sources_1/ip/vio_0/hdl,,,,,
+D:/ELD/LAB_5/LAB_5.srcs/sources_1/new/top_fsm.v,1758001300,verilog,,D:/ELD/LAB_5/LAB_5.srcs/sources_1/new/vio_wrwpper.v,,top_fsm,,,../../../../LAB_5.srcs/sources_1/ip/clk_wiz_0;../../../../LAB_5.srcs/sources_1/ip/vio_0/hdl,,,,,
+D:/ELD/LAB_5/LAB_5.srcs/sources_1/new/vio_wrwpper.v,1758001515,verilog,,,,vio_wrapper,,,../../../../LAB_5.srcs/sources_1/ip/clk_wiz_0;../../../../LAB_5.srcs/sources_1/ip/vio_0/hdl,,,,,
